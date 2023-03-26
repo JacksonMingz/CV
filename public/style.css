@@ -1,0 +1,71 @@
+.px-lg-10 {
+    padding-left: 10rem;
+    padding-right: 10rem;
+}
+
+.navbar.fixed-top {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 1;
+  }
+
+.image{
+    width: 100vw;
+    height: 80vh;
+    object-fit: cover;
+}
+
+.profile{
+    z-index: 1;
+}
+
+.face{
+    width: 15vw;
+    border-radius: 15vw;
+}
+
+.name{
+    font-size: 2.7vw;
+    font-weight: bold;
+}
+
+.skills{
+    font-size: 1vw;
+}
+
+.glowing-text {
+    text-shadow: 0 0 5px #fff,
+    0 0 5px #fff, 
+    0 0 5px #fff, 
+    0 0 5px #FF00FF, 
+    0 0 10px #FF00FF, 
+    0 0 15px #FF00FF, 
+    0 0 20px #FF00FF;
+    -webkit-text-stroke: 1px #FF00FF;
+}
+
+.box {
+    width: 7vw;
+    height: 1.7vw;
+}
+
+#webDeveloper{
+    width: 9vw;
+    margin-left: 2vw;
+}
+
+#videoEditor{
+    width: 9vw;
+}
+
+.glowing-box {
+    box-shadow: 0 0 5px #000,
+    0 0 5px #000, 
+    0 0 5px #000, 
+    0 0 5px #1900ff, 
+    0 0 10px #1900ff, 
+    0 0 15px #1900ff, 
+    0 0 20px #1900ff;
+}

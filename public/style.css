@@ -9,7 +9,7 @@
     left: 0;
     right: 0;
     z-index: 1;
-  }
+}
 
 .image{
     width: 100vw;
@@ -24,6 +24,13 @@
 .face{
     width: 15vw;
     border-radius: 15vw;
+    box-shadow: 0 0 5px #fff,
+    0 0 5px #fff, 
+    0 0 5px #fff, 
+    0 0 15px #a69cffac, 
+    0 0 20px #a69cffac, 
+    0 0 25px #a69cffac, 
+    0 0 30px #a69cffac;
 }
 
 .name{
@@ -39,32 +46,34 @@
     text-shadow: 0 0 5px #fff,
     0 0 5px #fff, 
     0 0 5px #fff, 
-    0 0 5px #FF00FF, 
-    0 0 10px #FF00FF, 
-    0 0 15px #FF00FF, 
-    0 0 20px #FF00FF;
-    -webkit-text-stroke: 1px #FF00FF;
+    0 0 5px #1900ff, 
+    0 0 8px #1900ff, 
+    0 0 10px #1900ff, 
+    0 0 13px #1900ff;
+    -webkit-text-stroke: 0.3px #1900ff;
 }
 
 .box {
-    width: 7vw;
-    height: 1.7vw;
+    width: 8vw;
+    height: 2vw;
+    background-color: #5663f3c3;
+    border-radius: 1vw;
 }
 
 #webDeveloper{
-    width: 9vw;
-    margin-left: 2vw;
+    width: 10vw;
+    margin-left: 3vw;
 }
 
-#videoEditor{
+#videoEditor, #illustrator{
     width: 9vw;
 }
 
 .glowing-box {
-    box-shadow: 0 0 5px #000,
-    0 0 5px #000, 
-    0 0 5px #000, 
-    0 0 5px #1900ff, 
+    box-shadow: 0 0 0.2px #fff,
+    0 0 0.2px #fff, 
+    0 0 0.2px #fff, 
+    0 0 0.2px #1900ff, 
     0 0 10px #1900ff, 
     0 0 15px #1900ff, 
     0 0 20px #1900ff;

@@ -151,32 +151,290 @@
                   <div class="row">
                     <div class="col-md-6">
                       <h3 class="subhead">Software</h3>
-                      <div class="wrapper justify-content-center ">
-                        <div class="backLoad">
-                          <div class="theLoad"> 
-                            <span class="ms-2 align-middle">Ms. Office</span>
+                      <div class="row mb-2">
+                        <div class="wrapper col-9 justify-content-center pe-0">
+                          <div class="backLoad">
+                            <div class="theLoad" style="width: 90%;">
+                              <span class="ms-2 align-middle">
+                                Ms. Office
+                              </span>
+                            </div>
                           </div>
                         </div>
+                        <div class="col-3 percent ps-0">
+                          <span class="ms-2 align-middle">
+                            <b> 90% </b>
+                          </span>
+                        </div>
                       </div>
+
+                      <div class="row mb-2">
+                        <div class="wrapper col-9 justify-content-center pe-0">
+                          <div class="backLoad">
+                            <div class="theLoad" style="width: 87%;">
+                              <span class="ms-2 align-middle">
+                                Photoshop
+                              </span>
+                            </div>
+                          </div>
+                        </div>
+                        <div class="col-3 percent ps-0">
+                          <span class="ms-2 align-middle">
+                            <b> 87% </b>
+                          </span>
+                        </div>
+                      </div>
+
+                      <div class="row mb-2">
+                        <div class="wrapper col-9 justify-content-center pe-0">
+                          <div class="backLoad">
+                            <div class="theLoad" style="width: 86%;">
+                              <span class="ms-2 align-middle">
+                                Figma
+                              </span>
+                            </div>
+                          </div>
+                        </div>
+                        <div class="col-3 percent ps-0">
+                          <span class="ms-2 align-middle">
+                            <b> 86% </b>
+                          </span>
+                        </div>
+                      </div>
+
+                      <div class="row mb-2">
+                        <div class="wrapper col-9 justify-content-center pe-0">
+                          <div class="backLoad">
+                            <div class="theLoad" style="width: 85%;">
+                              <span class="ms-2 align-middle">
+                                After Effects
+                              </span>
+                            </div>
+                          </div>
+                        </div>
+                        <div class="col-3 percent ps-0">
+                          <span class="ms-2 align-middle">
+                            <b> 85% </b>
+                          </span>
+                        </div>
+                      </div>
+
                     </div>
                     <div class="col-md-6">
                       <h3 class="subhead">Skills</h3>
-                      <h5 class="content"><b>SMA Kristen Kalam Kudus Selatpanjang | 2020 - 2021</b></h5>
-                      <p class="content">~ Berperan dalam mengatur jalannya kegiatan OSIS, dan mengatur anggota OSIS lainnya.</p>
+                      <div class="row mb-2">
+                        <div class="wrapper col-9 justify-content-center pe-0">
+                          <div class="backLoad">
+                            <div class="theLoad" style="width: 94%;">
+                              <span class="ms-2 align-middle">
+                                PHP Language
+                              </span>
+                            </div>
+                          </div>
+                        </div>
+                        <div class="col-3 percent ps-0">
+                          <span class="ms-2 align-middle">
+                            <b> 94% </b>
+                          </span>
+                        </div>
+                      </div>
+
+                      <div class="row mb-2">
+                        <div class="wrapper col-9 justify-content-center pe-0">
+                          <div class="backLoad">
+                            <div class="theLoad" style="width: 90%;">
+                              <span class="ms-2 align-middle">
+                                C Language
+                              </span>
+                            </div>
+                          </div>
+                        </div>
+                        <div class="col-3 percent ps-0">
+                          <span class="ms-2 align-middle">
+                            <b> 90% </b>
+                          </span>
+                        </div>
+                      </div>
+
+                      <div class="row mb-2">
+                        <div class="wrapper col-9 justify-content-center pe-0">
+                          <div class="backLoad">
+                            <div class="theLoad" style="width: 88%;">
+                              <span class="ms-2 align-middle">
+                                HTML | CSS | Js
+                              </span>
+                            </div>
+                          </div>
+                        </div>
+                        <div class="col-3 percent ps-0">
+                          <span class="ms-2 align-middle">
+                            <b> 88% </b>
+                          </span>
+                        </div>
+                      </div>
+                      
+                      <div class="row mb-2">
+                        <div class="wrapper col-9 justify-content-center pe-0">
+                          <div class="backLoad">
+                            <div class="theLoad" style="width: 87%;">
+                              <span class="ms-2 align-middle">
+                                Query
+                              </span>
+                            </div>
+                          </div>
+                        </div>
+                        <div class="col-3 percent ps-0">
+                          <span class="ms-2 align-middle">
+                            <b> 87% </b>
+                          </span>
+                        </div>
+                      </div>
+
                     </div>
                   </div>
 
                   <div class="row">
                     <div class="col-md-6">
                       <h3 class="subhead">Language</h3>
-                      <h5 class="content"><b>SMA Kristen Kalam Kudus Selatpanjang | 2020 - 2021</b></h5>
-                      <p class="content">~ Berperan dalam mengatur jalannya kegiatan OSIS, dan mengatur anggota OSIS lainnya.</p>
+                      <div class="row mb-2">
+                        <div class="wrapper col-9 justify-content-center pe-0">
+                          <div class="backLoad">
+                            <div class="theLoad" style="width: 96%;">
+                              <span class="ms-2 align-middle">
+                                Indonesia | Active
+                              </span>
+                            </div>
+                          </div>
+                        </div>
+                        <div class="col-3 percent ps-0">
+                          <span class="ms-2 align-middle">
+                            <b> 96% </b>
+                          </span>
+                        </div>
+                      </div>
+
+                      <div class="row mb-2">
+                        <div class="wrapper col-9 justify-content-center pe-0">
+                          <div class="backLoad">
+                            <div class="theLoad" style="width: 90%;">
+                              <span class="ms-2 align-middle">
+                                English | Active
+                              </span>
+                            </div>
+                          </div>
+                        </div>
+                        <div class="col-3 percent ps-0">
+                          <span class="ms-2 align-middle">
+                            <b> 90% </b>
+                          </span>
+                        </div>
+                      </div>
+
+                      <div class="row mb-2">
+                        <div class="wrapper col-9 justify-content-center pe-0">
+                          <div class="backLoad">
+                            <div class="theLoad" style="width: 90%;">
+                              <span class="ms-2 align-middle">
+                                Hokkien | Active
+                              </span>
+                            </div>
+                          </div>
+                        </div>
+                        <div class="col-3 percent ps-0">
+                          <span class="ms-2 align-middle">
+                            <b> 90% </b>
+                          </span>
+                        </div>
+                      </div>
+                      
+                      <div class="row mb-2">
+                        <div class="wrapper col-9 justify-content-center pe-0">
+                          <div class="backLoad">
+                            <div class="theLoad" style="width: 53%;">
+                              <span class="ms-2 align-middle">
+                                Mandarin | Passive
+                              </span>
+                            </div>
+                          </div>
+                        </div>
+                        <div class="col-3 percent ps-0">
+                          <span class="ms-2 align-middle">
+                            <b> 53% </b>
+                          </span>
+                        </div>
+                      </div>
                     </div>
                     <div class="col-md-6">
                       <h3 class="subhead">Hobby</h3>
-                      <h5 class="content"><b>SMA Kristen Kalam Kudus Selatpanjang | 2020 - 2021</b></h5>
-                      <p class="content">~ Berperan dalam mengatur jalannya kegiatan OSIS, dan mengatur anggota OSIS lainnya.</p>
+                      <div class="row mb-2">
+                        <div class="wrapper col-9 justify-content-center pe-0">
+                          <div class="backLoad">
+                            <div class="theLoad">
+                              <span class="ms-2 align-middle">
+                                Digital Drawing
+                              </span>
+                            </div>
+                          </div>
+                        </div>
+                        <div class="col-3 percent ps-0">
+                          <span class="ms-2 align-middle">
+                            <b> &nbsp; </b>
+                          </span>
+                        </div>
+                      </div>
+
+                      <div class="row mb-2">
+                        <div class="wrapper col-9 justify-content-center pe-0">
+                          <div class="backLoad">
+                            <div class="theLoad">
+                              <span class="ms-2 align-middle">
+                                Coding
+                              </span>
+                            </div>
+                          </div>
+                        </div>
+                        <div class="col-3 percent ps-0">
+                          <span class="ms-2 align-middle">
+                            <b> &nbsp; </b>
+                          </span>
+                        </div>
+                      </div>
+
+                      <div class="row mb-2">
+                        <div class="wrapper col-9 justify-content-center pe-0">
+                          <div class="backLoad">
+                            <div class="theLoad">
+                              <span class="ms-2 align-middle">
+                                Solving Math
+                              </span>
+                            </div>
+                          </div>
+                        </div>
+                        <div class="col-3 percent ps-0">
+                          <span class="ms-2 align-middle">
+                            <b> &nbsp; </b>
+                          </span>
+                        </div>
+                      </div>
+                      
+                      <div class="row mb-2">
+                        <div class="wrapper col-9 justify-content-center pe-0">
+                          <div class="backLoad">
+                            <div class="theLoad">
+                              <span class="ms-2 align-middle">
+                                Design
+                              </span>
+                            </div>
+                          </div>
+                        </div>
+                        <div class="col-3 percent ps-0">
+                          <span class="ms-2 align-middle">
+                            <b> &nbsp; </b>
+                          </span>
+                        </div>
+                      </div>
                     </div>
+                  </div>
                   </div>
               </div>
             </div>

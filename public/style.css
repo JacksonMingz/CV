@@ -107,13 +107,12 @@ body{
 }
 
 .theLoad{
-    width: 85%;
     border-radius: 10vw;
     height: 2vw;
     background-color: #998efd;
 }
 
 .wrapper{
-    width: 80%;
+    width: 70%;
     margin-left: 1vw;
 }

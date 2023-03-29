@@ -45,7 +45,7 @@
           <div class="position-relative">  
             <img class="image" src="{{ asset('bg2.jpg') }}">
             <div class="position-absolute text-center text-light top-50 start-50 translate-middle profile">
-                <img class="face" src="{{ asset('bg1.jpg') }}">
+                <img class="face" src="{{ asset('face.jpg') }}">
                 <div class="name glowing-text">JACKSON</div>
                 <div class="container">
                   <div class="row">

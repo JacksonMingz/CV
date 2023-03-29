@@ -82,7 +82,12 @@
           </div>
         </div>
 
+<<<<<<< HEAD
         <div id="about" class="col-12 pt-5">
+=======
+        <div class="col-12">
+          <br>
+>>>>>>> 1756586952ebca28547fdec8ae3d36d4edc56d03
           <div class="container">
             <div class="row justify-content-center">
               <div class="col-md-8 offset-md-1 border">
@@ -147,9 +152,15 @@
             </div>
 
 
+<<<<<<< HEAD
             <div id="skill" class="row justify-content-center mt-5">
               <div class="col-md-8 offset-md-1 border">
                 <h1 class="head">S K I L L S</h1>
+=======
+            <div class="row justify-content-center mt-5">
+              <div class="col-md-8 offset-md-1 border">
+                <h1 class="head">A B O U T &nbsp;M E</h1>
+>>>>>>> 1756586952ebca28547fdec8ae3d36d4edc56d03
                   <div class="row">
                     <div class="col-md-6">
                       <h3 class="subhead">Software</h3>
@@ -437,6 +448,7 @@
                       </div>
                     </div>
                   </div>
+<<<<<<< HEAD
                 </div>
               </div>
 
@@ -470,6 +482,14 @@
     <a class="text-dark">JacksonMingz</a>
   </div>
 </footer>
+=======
+                  </div>
+              </div>
+            </div>
+
+          </div>
+        </div>
+>>>>>>> 1756586952ebca28547fdec8ae3d36d4edc56d03
       
 </body>
 </html>

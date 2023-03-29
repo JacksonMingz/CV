@@ -9,6 +9,7 @@
     <!-- {{-- <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script> --}} -->
     <link rel="stylesheet" href="{{ asset('style.css') }}">
+    <script href="{{ asset('js.js') }}"> </script>
     <style>
 
     </style>
@@ -45,7 +46,7 @@
           <div class="position-relative">  
             <img class="image" src="{{ asset('bg2.jpg') }}">
             <div class="position-absolute text-center text-light top-50 start-50 translate-middle profile">
-                <img class="face" src="{{ asset('face.jpg') }}">
+                <img class="face" src="{{ asset('bg1.jpg') }}">
                 <div class="name glowing-text">JACKSON</div>
                 <div class="container">
                   <div class="row">
@@ -82,19 +83,18 @@
           </div>
         </div>
 
-<<<<<<< HEAD
+
         <div id="about" class="col-12 pt-5">
-=======
+
         <div class="col-12">
           <br>
->>>>>>> 1756586952ebca28547fdec8ae3d36d4edc56d03
           <div class="container">
-            <div class="row justify-content-center">
-              <div class="col-md-8 offset-md-1 border">
+            <div class="row rows justify-content-center">
+              <div class="col-md-8 offset-md-1 border shadow-lg p-3 mb-5 bg-body rounded shadow-lg p-3 mb-5 bg-body rounded">
                 <h1 class="head">P E K E R J A A N</h1>
-                  <div class="row">
+                  <div class="row rows">
                     <div class="col-md-12">
-                      <h3 class="subhead">TEKNISI</h3>
+                      <h3 class="subhead">TECHNICIAN | SOFTWARE DEVELOPER</h3>
                       <h5 class="content"><b>2022 December - Sekarang</b></h5>
                       <p class="content">PT Sat Nusapersada Tbk</p>
                     </div>
@@ -102,10 +102,10 @@
               </div>
             </div>
 
-            <div class="row justify-content-center mt-5">
-              <div class="col-md-8 offset-md-1 border">
+            <div class="row rows justify-content-center mt-5">
+              <div class="col-md-8 offset-md-1 border shadow-lg p-3 mb-5 bg-body rounded">
                 <h1 class="head">P E N D I D I K A N</h1>
-                  <div class="row">
+                  <div class="row rows">
                     <div class="col-md-6">
                       <h3 class="subhead">S1 - System Information</h3>
                       <h5 class="content"><b>2022 - Sekarang</b></h5>
@@ -120,10 +120,10 @@
               </div>
             </div>            
 
-            <div class="row justify-content-center mt-5">
-              <div class="col-md-8 offset-md-1 border">
+            <div class="row rows justify-content-center mt-5">
+              <div class="col-md-8 offset-md-1 border shadow-lg p-3 mb-5 bg-body rounded">
                 <h1 class="head">P E N G H A R G A A N</h1>
-                  <div class="row">
+                  <div class="row rows">
                     <div class="col-md-6">
                       <h3 class="subhead">Juara 1 PKM Creativity and Innovation Program</h3>
                       <h5 class="content"><b>Universitas Internasional Batam | 2022</b></h5>
@@ -138,10 +138,10 @@
               </div>
             </div>
 
-            <div class="row justify-content-center mt-5">
-              <div class="col-md-8 offset-md-1 border">
+            <div class="row rows justify-content-center mt-5">
+              <div class="col-md-8 offset-md-1 border shadow-lg p-3 mb-5 bg-body rounded">
                 <h1 class="head">O R G A N I S A S I</h1>
-                  <div class="row">
+                  <div class="row rows">
                     <div class="col-md-12">
                       <h3 class="subhead">Vice Presidents of Student Council</h3>
                       <h5 class="content"><b>SMA Kristen Kalam Kudus Selatpanjang | 2020 - 2021</b></h5>
@@ -152,19 +152,16 @@
             </div>
 
 
-<<<<<<< HEAD
-            <div id="skill" class="row justify-content-center mt-5">
-              <div class="col-md-8 offset-md-1 border">
+
+
+
+            <div id="skill" class="row rows justify-content-center" style="padding-top:10vw;">
+              <div class="col-md-8 offset-md-1 border shadow-lg p-3 mb-5 bg-body rounded">
                 <h1 class="head">S K I L L S</h1>
-=======
-            <div class="row justify-content-center mt-5">
-              <div class="col-md-8 offset-md-1 border">
-                <h1 class="head">A B O U T &nbsp;M E</h1>
->>>>>>> 1756586952ebca28547fdec8ae3d36d4edc56d03
-                  <div class="row">
+                  <div class="row rows">
                     <div class="col-md-6">
                       <h3 class="subhead">Software</h3>
-                      <div class="row mb-2">
+                      <div class="row rows mb-2">
                         <div class="wrapper col-9 justify-content-center pe-0">
                           <div class="backLoad">
                             <div class="theLoad" style="width: 90%;">
@@ -181,7 +178,7 @@
                         </div>
                       </div>
 
-                      <div class="row mb-2">
+                      <div class="row rows mb-2">
                         <div class="wrapper col-9 justify-content-center pe-0">
                           <div class="backLoad">
                             <div class="theLoad" style="width: 87%;">
@@ -198,7 +195,7 @@
                         </div>
                       </div>
 
-                      <div class="row mb-2">
+                      <div class="row rows mb-2">
                         <div class="wrapper col-9 justify-content-center pe-0">
                           <div class="backLoad">
                             <div class="theLoad" style="width: 86%;">
@@ -215,7 +212,7 @@
                         </div>
                       </div>
 
-                      <div class="row mb-2">
+                      <div class="row rows mb-2">
                         <div class="wrapper col-9 justify-content-center pe-0">
                           <div class="backLoad">
                             <div class="theLoad" style="width: 85%;">
@@ -235,7 +232,7 @@
                     </div>
                     <div class="col-md-6">
                       <h3 class="subhead">Skills</h3>
-                      <div class="row mb-2">
+                      <div class="row rows mb-2">
                         <div class="wrapper col-9 justify-content-center pe-0">
                           <div class="backLoad">
                             <div class="theLoad" style="width: 94%;">
@@ -252,7 +249,7 @@
                         </div>
                       </div>
 
-                      <div class="row mb-2">
+                      <div class="row rows mb-2">
                         <div class="wrapper col-9 justify-content-center pe-0">
                           <div class="backLoad">
                             <div class="theLoad" style="width: 90%;">
@@ -269,7 +266,7 @@
                         </div>
                       </div>
 
-                      <div class="row mb-2">
+                      <div class="row rows mb-2">
                         <div class="wrapper col-9 justify-content-center pe-0">
                           <div class="backLoad">
                             <div class="theLoad" style="width: 88%;">
@@ -286,7 +283,7 @@
                         </div>
                       </div>
                       
-                      <div class="row mb-2">
+                      <div class="row rows mb-2">
                         <div class="wrapper col-9 justify-content-center pe-0">
                           <div class="backLoad">
                             <div class="theLoad" style="width: 87%;">
@@ -306,10 +303,10 @@
                     </div>
                   </div>
 
-                  <div class="row">
+                  <div class="row rows">
                     <div class="col-md-6">
                       <h3 class="subhead">Language</h3>
-                      <div class="row mb-2">
+                      <div class="row rows mb-2">
                         <div class="wrapper col-9 justify-content-center pe-0">
                           <div class="backLoad">
                             <div class="theLoad" style="width: 96%;">
@@ -326,7 +323,7 @@
                         </div>
                       </div>
 
-                      <div class="row mb-2">
+                      <div class="row rows mb-2">
                         <div class="wrapper col-9 justify-content-center pe-0">
                           <div class="backLoad">
                             <div class="theLoad" style="width: 90%;">
@@ -343,7 +340,7 @@
                         </div>
                       </div>
 
-                      <div class="row mb-2">
+                      <div class="row rows mb-2">
                         <div class="wrapper col-9 justify-content-center pe-0">
                           <div class="backLoad">
                             <div class="theLoad" style="width: 90%;">
@@ -360,7 +357,7 @@
                         </div>
                       </div>
                       
-                      <div class="row mb-2">
+                      <div class="row rows mb-2">
                         <div class="wrapper col-9 justify-content-center pe-0">
                           <div class="backLoad">
                             <div class="theLoad" style="width: 53%;">
@@ -379,7 +376,7 @@
                     </div>
                     <div class="col-md-6">
                       <h3 class="subhead">Hobby</h3>
-                      <div class="row mb-2">
+                      <div class="row rows mb-2">
                         <div class="wrapper col-9 justify-content-center pe-0">
                           <div class="backLoad">
                             <div class="theLoad">
@@ -396,7 +393,7 @@
                         </div>
                       </div>
 
-                      <div class="row mb-2">
+                      <div class="row rows mb-2">
                         <div class="wrapper col-9 justify-content-center pe-0">
                           <div class="backLoad">
                             <div class="theLoad">
@@ -413,7 +410,7 @@
                         </div>
                       </div>
 
-                      <div class="row mb-2">
+                      <div class="row rows mb-2">
                         <div class="wrapper col-9 justify-content-center pe-0">
                           <div class="backLoad">
                             <div class="theLoad">
@@ -430,7 +427,7 @@
                         </div>
                       </div>
                       
-                      <div class="row mb-2">
+                      <div class="row rows mb-2">
                         <div class="wrapper col-9 justify-content-center pe-0">
                           <div class="backLoad">
                             <div class="theLoad">
@@ -448,14 +445,14 @@
                       </div>
                     </div>
                   </div>
-<<<<<<< HEAD
+
                 </div>
               </div>
 
           </div>
         </div>
 
-<footer id="contact" class="text-center text-white mt-5" style="background-color: #f1f1f1;">
+<footer id="contact" class="text-center text-white" style="background-color: #f1f1f1; margin-top: 8vw;">
   <div class="container pt-4">
     <section class="mb-4">
 
@@ -482,14 +479,61 @@
     <a class="text-dark">JacksonMingz</a>
   </div>
 </footer>
-=======
+
                   </div>
               </div>
             </div>
 
           </div>
         </div>
->>>>>>> 1756586952ebca28547fdec8ae3d36d4edc56d03
       
 </body>
 </html>
+
+
+<script>
+// const rows = document.querySelectorAll('.row');
+
+// function checkScroll() {
+//   rows.forEach(row => {
+//     const rowTop = row.getBoundingClientRect().top;
+//     if (rowTop < window.innerHeight * 1) {
+//       row.classList.add('active');
+//     } else {
+//       row.classList.remove('active');
+//     }
+//   });
+// }
+const rows = document.querySelectorAll('.row');
+
+function checkScroll() {
+  rows.forEach(row => {
+    const rowTop = row.getBoundingClientRect().top;
+    if (rowTop < window.innerHeight * 0.8) {
+      row.classList.add('active');
+    } else {
+      row.classList.remove('active');
+    }
+  });
+}
+
+window.addEventListener('scroll', checkScroll);
+
+window.onload = function() {
+  const scrollPosition = localStorage.getItem('scrollPosition');
+  if (scrollPosition) {
+    window.scrollTo(0, scrollPosition);
+    localStorage.removeItem('scrollPosition');
+  }
+};
+
+window.addEventListener('beforeunload', () => {
+  const scrollPosition = window.pageYOffset || document.documentElement.scrollTop;
+  localStorage.setItem('scrollPosition', scrollPosition);
+});
+
+function scrollToSkills() {
+    const skillSection = document.getElementById("skill");
+    skillSection.scrollIntoView({behavior: "smooth"});
+  }
+</script>
